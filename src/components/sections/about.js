@@ -125,8 +125,20 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
-
+  const skills = [
+    'Java',
+    'C++',
+    'Python',
+    'Go',
+    'JavaScript',
+    'React.js',
+    'Node.js',
+    'AWS',
+    'Docker',
+    'Kubernetes',
+    'Generative AI'
+  ];
+  
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
       <h2 className="numbered-heading">About Me</h2>
@@ -135,30 +147,15 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+            Hello! I'm Harshad, and I'm passionate about crafting innovative solutions in the tech world. My journey in tech began during my academic pursuits in computer science, where I delved into complex challenges and innovative projects.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+            Today, I'm proud of my experiences ranging from a graduate researcher at UC San Diego, developing an end-to-end data pipeline, to internships where I refined machine learning processes and built impactful applications. My expertise lies in creating efficient and impactful tech solutions.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+            Currently, I'm focusing on leveraging my skills in Python, Go, Java, and various cutting-edge technologies to build accessible and inclusive digital experiences. I'm also excited about my recent projects like TutorGPT and a fault-tolerant distributed file storage system, which showcase my commitment to pushing the boundaries of technology.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

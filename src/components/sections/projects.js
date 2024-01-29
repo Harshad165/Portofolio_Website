@@ -181,7 +181,6 @@ const Projects = () => {
               title
               tech
               github
-              external
             }
             html
           }
