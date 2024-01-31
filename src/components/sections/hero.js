@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-      I am an aspiring software developer with a strong foundation in computer science. My experience includes working as a software developer at UC San Diego, where I have contributed to innovative projects in web development and machine learning. I also have a deep interest in large language models and a passion for building scalable software systems.      </p>
+      I am an aspiring software developer with a strong foundation in computer science. My experience includes working as a software developer at UC San Diego, where I have contributed to innovative projects in web development and machine learning. I also have a passion for building scalable, fault-tolerant, and secure systems.      </p>
     </>
   );
   const five = (

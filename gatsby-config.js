@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Harshad Varma Sagi | Software Developer',
     description:
-      'Harshad Varma is a software engineer who specializes in Distributed Systems and Generative AI',
+      'Harshad Varma is a software engineer who specializes in Distributed Systems',
     siteUrl: 'https://hsagi.netlify.app/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
