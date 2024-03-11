@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'ScrapeBot'
-cover: './SkillBoost.png'
+cover: './ScrapeBot.png'
 # external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 # cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 tech:
