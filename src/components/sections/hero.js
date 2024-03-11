@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-      Welcome to my personal website! I'm Harshad Varma Sagi, a dedicated and innovative computer science professional specializing in machine learning, data science, and software development. Dive into my world of cutting-edge projects, technical skills, and academic journey as I explore the intersections of technology and impact.      </p>
+      I'm currently a Graduate Student Researcher at the Halicioglu Data Science Institute, UC San Diego, with a passion for leveraging artificial intelligence to solve real-world challenges. My work spans from developing AI-powered tutors to enhancing data visualization in biomedical engineering. My journey in tech began with a strong foundation in computer science from UC San Diego, where I've honed my skills and contributed to various research initiatives.      </p>
     </>
   );
 
