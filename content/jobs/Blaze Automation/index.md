@@ -1,5 +1,5 @@
 ---
-date: '2021-05-14'
+date: '2020-05-14'
 title: 'Software Development Intern'
 company: 'Blaze Automation'
 location: 'Hyderbad, India'

@@ -1,6 +1,6 @@
 ---
-date: '2021-15-12'
-title: 'Research Intern'
+date: '2024-02-01'
+title: 'Graduate Student Researcher'
 company: 'UC San Diego'
 location: 'La Jolla, CA'
 range: 'February 2024 - Present'

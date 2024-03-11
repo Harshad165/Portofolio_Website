@@ -1,5 +1,5 @@
 ---
-date: '2023-09-22'
+date: '2023-06-22'
 title: 'Machine Learning Intern'
 company: 'Emagia'
 location: 'Santa Clara, CA'
