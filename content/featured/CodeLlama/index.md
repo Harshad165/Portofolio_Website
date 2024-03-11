@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'CodeLlama'
-cover: './CodeLlama.png'
+cover: './Product_Recco.webp'
 # github: 'https://github.com/bchiang7/spotify-profile'
 # external: 'https://spotify-profile.herokuapp.com/'
 tech:
