@@ -147,18 +147,9 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Hello! I'm Harshad, and I'm passionate about crafting innovative solutions in the tech world. My journey in tech began during my academic pursuits in computer science, where I delved into complex challenges and innovative projects.
+            Welcome to my personal website! I'm Harshad Varma Sagi, a dedicated and innovative computer science professional specializing in machine learning, data science, and software development. Dive into my world of cutting-edge projects, technical skills, and academic journey as I explore the intersections of technology and impact.
             </p>
 
-            <p>
-            Today, I'm proud of my experiences ranging from a graduate researcher at UC San Diego, developing an end-to-end data pipeline, to internships where I refined machine learning processes and built impactful applications. My expertise lies in creating efficient and impactful tech solutions.
-            </p>
-
-            <p>
-            Currently, I'm focusing on leveraging my skills in Python, Go, Java, and various cutting-edge technologies to build accessible and inclusive digital experiences. I'm also excited about my recent projects like TutorGPT and a fault-tolerant distributed file storage system, which showcase my commitment to pushing the boundaries of technology.
-            </p>
-
-            <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
 
           <ul className="skills-list">

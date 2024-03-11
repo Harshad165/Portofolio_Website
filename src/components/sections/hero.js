@@ -65,15 +65,11 @@ const Hero = () => {
   const four = (
     <>
       <p>
-      I am an aspiring developer with a strong foundation in computer science. My experience includes working as a software developer at UC San Diego, where I have contributed to innovative projects in web development and machine learning. I also have a passion for building and fine tuning Large Scale Language Models.      </p>
+      Welcome to my personal website! I'm Harshad Varma Sagi, a dedicated and innovative computer science professional specializing in machine learning, data science, and software development. Dive into my world of cutting-edge projects, technical skills, and academic journey as I explore the intersections of technology and impact.      </p>
     </>
   );
-  const five = (
-    <p>
-Beyond my academic pursuits, I'm deeply intrigued by technological advancements. I enjoy reading blogs and exploring new tools and libraries in the constantly evolving field of computer science.    </p>
-  )
 
-  const items = [one, two, four, five];
+  const items = [one, two, four];
 
   return (
     <StyledHeroSection>
