@@ -1,9 +1,9 @@
 ---
-date: 'Present'
+date: '2021-15-12'
 title: 'Graduate Researcher (Software Developer)'
 company: 'UC San Diego'
 location: 'La Jolla, CA'
-range: 'March 2023 - Present'
+range: 'September 2023 - January 2024'
 url: 'https://ucsd.edu/'
 ---
 
