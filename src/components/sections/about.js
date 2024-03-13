@@ -147,7 +147,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            I'm currently a Graduate Student Researcher at the Halicioglu Data Science Institute, UC San Diego, with a passion for leveraging artificial intelligence to solve real-world challenges. My journey in tech began with a strong foundation in computer science from UC San Diego, where I've honed my skills and contributed to various research initiatives.
+            I'm currently a Graduate Student Researcher at UC San Diego, Google Reaserch with a passion for leveraging artificial intelligence to solve real-world challenges. My journey in tech began with a strong foundation in computer science from UC San Diego, where I've honed my skills and contributed to various research initiatives.
             </p>
 
           </div>
